@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NHL Helper</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="player_list_number_header">#</string>
+    <string name="player_list_name_header">Player Name</string>
+    <string name="player_list_position_header">Player Position</string>
+    <string name="player_list_filter_hint">Search by Position</string>
+
+    <string name="welcome_fragment_title">NHL Helper</string>
+    <string name="welcome_fragment_message">Welcome please select a team from the navigation menu to begin</string>
+
+    <string name="nav_drawer_header_text">NHL Teams</string>
+
+</resources>
